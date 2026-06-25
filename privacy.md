@@ -1,144 +1,178 @@
----
-title: Privacy Policy
----
+# Privacy Policy for Mandarin Flashcards
 
-# Privacy Policy — [Mandarin Flashcards]
+**Effective date:** June 24, 2026
+**Last updated:** June 24, 2026
 
-**Effective date:** [2026-01-01]  
-**Last updated:** [2026-02-17]
+This Privacy Policy explains how James Thiessen ("we", "us", or "our") handles
+information in connection with the **Mandarin Flashcards** mobile application (the
+"App"). We have designed the App to keep your learning data on your device and to
+limit data collection to what is needed to display advertising.
 
-[Mandarin Flashcards] (the “App”) is provided by **[James Thiessen / techj4rgon]** (“we”, “us”, “our”).  
-This Privacy Policy explains what information we collect, how we use it, and the choices you have.
-
-**Contact:** [thiessen[dot]james[at]gmail[d0t]com]
+By using the App, you agree to the practices described in this policy.
 
 ---
 
-## What this app does
-[Mandarin Flashcards] is an educational app for studying and practicing Mandarin.
+## 1. Summary
+
+- Your flashcards, profiles, practice history, and settings are stored **only on
+  your device**. We do not operate a server that collects or stores them.
+- The App displays banner advertisements through **Google AdMob**. To do this,
+  Google may collect a device/advertising identifier and related advertising data.
+- On iOS, we ask for your permission (App Tracking Transparency) before any data is
+  used to track you, and in the EEA/UK we present a consent form before ads load.
+- We do not knowingly collect personal information from children.
 
 ---
 
-## Information we collect
+## 2. Information collected on your device
 
-### 1) Information you provide
-**User-created content (flashcards):**  
-If you create your own flashcards or edit custom text, that content is stored on your device and used to provide the feature.
+The App stores the following locally on your device and does not transmit it to us:
 
-**Support communications:**  
-If you email us, we receive what you send (and any attachments).
+- Profiles you create and the cards you select
+- Practice results, streaks, and progress
+- App settings and preferences
 
-> Important: Flashcard text may include personal information if you type it in. Please avoid including sensitive personal data in your flashcards.
-
----
-
-### 2) Information collected automatically
-**Diagnostics and app performance (typical examples):**
-- Device type/model, operating system version
-- App version
-- Crash logs and performance data (to fix bugs and improve stability)
+This data remains under your control and is removed if you delete the App or reset
+it from within the App.
 
 ---
 
-### 3) Advertising data
-The App shows ads. Ad providers may automatically collect certain information to show ads, prevent fraud, and measure performance, such as:
-- Device identifiers (may include an advertising identifier, depending on your settings and permissions)
-- IP address (general location like city/region may be inferred)
-- App interactions related to ads (impressions, clicks)
-- Basic device/app information (OS version, app version)
+## 3. Information collected for advertising (Google AdMob)
 
-**Tracking (Apple ATT):**  
-If our ad providers use data to track you across other companies’ apps and websites (as defined by Apple), the App will request your permission using Apple’s App Tracking Transparency prompt. If you deny permission, you will still see ads, but they may be less relevant.
+The App uses **Google AdMob** to show banner ads. AdMob is provided by Google, which
+acts as an independent third party. Through the Google Mobile Ads SDK, Google may
+collect and process the following:
 
----
+| Data type | Purpose |
+|---|---|
+| Device / advertising identifier (e.g. IDFA) | Serving and measuring ads, frequency capping |
+| Advertising data and product interaction (e.g. ad views, taps) | Serving and measuring ads, analytics |
+| Coarse (approximate) location | Serving and measuring ads, analytics |
+| Diagnostics (crash and performance data) | App functionality and analytics |
 
-## Optional “Help improve the app” feature (user-created flashcard text sharing)
-We may offer an optional feature that helps improve the App by sending us certain flashcard edits or newly created flashcards.
+Some of this data may be **used for tracking** — that is, linked with third-party
+data for the purpose of personalized advertising — depending on your consent and
+tracking choices (see Sections 5 and 6).
 
-If enabled, we may send:
-- The **flashcard text you added/edited** (user-created content)
-- Limited context needed to understand it (e.g., app version, hanzi, pinyin, english components)
-- Diagnostics (e.g., error codes if something failed)
+We do not collect your name, email address, contacts, photos, precise location, or
+account credentials.
 
-**This feature is OFF by default** and only enabled if you choose to help improve the app. You can turn it off at any time in the App’s settings: **[Settings > Privacy]**.
-- It would be very helpful to me if you do enable it, to make it better for the language learning community!
+For details on how Google uses this information, see:
 
-**What we do NOT intend to send:**
-- Your name, email address, or contact list
-- Your photos
-- Passwords or payment details
-
-**Why we collect this (if enabled):**
-- Improve flashcard content features, suggestions, and overall app quality for future users
-- Identify common issues and edge cases in how people create/modify flashcards
+- Google Privacy Policy: https://policies.google.com/privacy
+- How Google uses information from sites or apps that use our services:
+  https://policies.google.com/technologies/partner-sites
 
 ---
 
-## How we use information
-We use information to:
-- Provide and operate the App
-- Show ads and measure ad performance
-- Fix bugs and improve reliability
-- Improve learning and flashcard features (including, if enabled, user-created content insights)
-- Respond to support requests
-- Protect against fraud, abuse, and security issues
-- Comply with legal obligations
+## 4. How the information is used
 
----
+Advertising data is used to:
 
-## Sharing of information
-We may share information with:
-1) **Advertising partners** (to display ads and measure performance)
-2) **Service providers** who help us run the App (hosting, analytics, crash reporting, email delivery, etc.)
-3) **Legal/safety** authorities when required by law or needed to protect users/our rights
+- Display banner advertisements within the App
+- Measure ad performance and prevent showing the same ad too often
+- Where permitted, deliver **personalized** ads; otherwise, deliver
+  **non-personalized** ads
 
 We do not sell your personal information.
 
-### Third-party services used by the App
-(Replace with your actual providers; delete what you don’t use.)
-- Ads: [Google AdMob]
-- 
 ---
 
-## Your choices
+## 5. App Tracking Transparency (iOS)
 
-### Advertising choices
-- If shown, you can allow/deny tracking permission via the iOS prompt or in iOS Settings.
-- Depending on your region, you may be offered additional ad consent controls.
+On iOS, before any data is used to track you across apps and websites owned by other
+companies, the App presents Apple's **App Tracking Transparency** prompt. If you do
+not grant permission, the App requests **non-personalized** ads only.
 
-### “Help improve the app” feature
-- This feature (if present) can be turned on/off in **[Settings > Privacy]**.
-
-### Access, correction, deletion
-You can contact us at **[thiessen.james@gmail.com]** to request access to or deletion of personal information we may have.
+You can change your choice at any time in **Settings → Privacy & Security → Tracking**.
 
 ---
 
-## Data retention
-We keep information only as long as necessary for the purposes described above:
-- Crash/diagnostic data: typically kept for a limited period to resolve issues
-- Ad data: retained according to ad partners’ policies
-- “Help improve the app” submissions (if enabled): retained as needed to improve features, then deleted or anonymized
+## 6. Consent for users in the EEA, UK, and Switzerland
 
-(Adjust to match your reality.)
+For users in the European Economic Area, the United Kingdom, and Switzerland, the App
+uses Google's **User Messaging Platform (UMP)** to present a consent form before ads
+are requested, consistent with the GDPR and ePrivacy requirements. You may grant or
+decline consent for personalized advertising, and you can change your consent choices
+within the App.
 
----
-
-## Security
-We use reasonable safeguards designed to protect information. No method of transmission or storage is 100% secure.
-
----
-
-## Children’s privacy
-The App is an educational app and may be used by a wide range of ages.
+Where we rely on consent as the legal basis, you may withdraw it at any time. Where
+permitted, we also rely on legitimate interests to show non-personalized ads that fund
+the App.
 
 ---
 
-## Changes to this policy
-We may update this Privacy Policy from time to time. We will update the “Last updated” date above and may notify you in-app for material changes.
+## 7. Purchases
+
+The optional **Remove Ads** subscription is processed by **Apple** through the App
+Store. We do not receive or store your payment details. Apple's handling of your
+purchase is governed by Apple's privacy policy.
 
 ---
 
-## Contact
-**[James Thiessen / techj4rgon]**  
-Email: **[thiessen[dot]james[at]gmail[d0t]com]**  
+## 8. Data retention
+
+On-device data is retained until you delete it within the App or remove the App.
+Advertising data collected by Google is retained and handled according to Google's
+own retention policies, linked above.
+
+---
+
+## 9. Children's privacy
+
+The App is **not directed to children** under the age of 13 (or the equivalent minimum
+age in your jurisdiction), and we do not knowingly collect personal information from
+children. If you believe a child has provided us information, please contact us and we
+will take appropriate steps.
+
+---
+
+## 10. Your choices and rights
+
+- **Limit ad tracking:** decline the App Tracking Transparency prompt, or change it in
+  iOS Settings (Section 5).
+- **Manage consent (EEA/UK):** adjust your consent choices in the App (Section 6).
+- **Reset or delete your data:** delete on-device data within the App or remove the App.
+- **Privacy rights:** depending on where you live (e.g. under GDPR or applicable
+  Canadian or U.S. laws), you may have rights to access, correct, or delete personal
+  data. Contact us using the details below and we will respond as required by
+  applicable law. For advertising data held by Google, please also refer to Google's
+  policies linked above.
+
+---
+
+## 11. Security
+
+We use reasonable technical measures to protect information. No method of electronic
+storage or transmission is completely secure, and we cannot guarantee absolute
+security.
+
+---
+
+## 12. International users
+
+The App is operated from Canada. If you use the App from another
+country, advertising data processed by Google may be transferred to and processed in
+countries with different data-protection laws, subject to Google's safeguards.
+
+---
+
+## 13. Changes to this policy
+
+We may update this Privacy Policy from time to time. We will revise the "Last updated"
+date above and, where appropriate, provide additional notice. Continued use of the App
+after changes take effect constitutes acceptance of the updated policy.
+
+---
+
+## 14. Contact us
+
+If you have questions about this Privacy Policy or your data, contact:
+James Thiessen
+thiessen.james+flashcards@gmail.com
+
+---
+
+*This document is a template provided to help you describe the App's data practices.
+It is not legal advice. Because you distribute in Canada and to EEA/UK users, consider
+having it reviewed against PIPEDA and GDPR for your specific situation.*
